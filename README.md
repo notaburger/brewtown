@@ -33,3 +33,4 @@ Next, download the expo app on your phone, create an account and run
 expo start
 ```
 
+Just testing out the GitHub Desktop App and Atom.  Editing the file in Atom and trying to see how I can push it all the way back up to the site.
